@@ -1,6 +1,6 @@
 % AR(1) process for 1000 lags
  
-N = 100;
+N = 1000;
 X = zeros(N);
 phi = -0.3;
 
